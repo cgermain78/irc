@@ -1,4 +1,4 @@
-# 🌐 ft_irc – Internet Relay Chat
+# 🌐 irc – Internet Relay Chat
 
 A custom **IRC (Internet Relay Chat) server** developed in C++98, offering real-time, text-based communication via channels and private messages. This project is perfect for exploring **network protocols**, **non-blocking I/O**, and the basics of multi-client server design in C++.
 
@@ -50,7 +50,7 @@ Make sure you have these in place before compiling the project.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/cgermain78/ft_irc.git
+   git clone https://github.com/cgermain78/irc.git
    cd ft_irc
 2. **Usage:**
    Once the server is compiled, you can run it with:
